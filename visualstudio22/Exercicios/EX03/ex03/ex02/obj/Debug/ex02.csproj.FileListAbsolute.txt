@@ -1,0 +1,7 @@
+C:\Users\062240002\OneDrive - Fundação Salvador Arena\Área de Trabalho\ALGORITMO\visualstudio22\Exercicios\ex02\ex02\ex02\bin\Debug\ex02.exe.config
+C:\Users\062240002\OneDrive - Fundação Salvador Arena\Área de Trabalho\ALGORITMO\visualstudio22\Exercicios\ex02\ex02\ex02\bin\Debug\ex02.exe
+C:\Users\062240002\OneDrive - Fundação Salvador Arena\Área de Trabalho\ALGORITMO\visualstudio22\Exercicios\ex02\ex02\ex02\bin\Debug\ex02.pdb
+C:\Users\062240002\OneDrive - Fundação Salvador Arena\Área de Trabalho\ALGORITMO\visualstudio22\Exercicios\ex02\ex02\ex02\obj\Debug\ex02.csproj.AssemblyReference.cache
+C:\Users\062240002\OneDrive - Fundação Salvador Arena\Área de Trabalho\ALGORITMO\visualstudio22\Exercicios\ex02\ex02\ex02\obj\Debug\ex02.csproj.CoreCompileInputs.cache
+C:\Users\062240002\OneDrive - Fundação Salvador Arena\Área de Trabalho\ALGORITMO\visualstudio22\Exercicios\ex02\ex02\ex02\obj\Debug\ex02.exe
+C:\Users\062240002\OneDrive - Fundação Salvador Arena\Área de Trabalho\ALGORITMO\visualstudio22\Exercicios\ex02\ex02\ex02\obj\Debug\ex02.pdb
